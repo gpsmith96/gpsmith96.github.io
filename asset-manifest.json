@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.06526468.css",
-    "main.js": "/static/js/main.39e3c78a.js",
-    "static/media/Graham.jpg": "/static/media/Graham.f423ac869e456d230693.jpg",
+    "main.css": "/static/css/main.8cbc7a85.css",
+    "main.js": "/static/js/main.6922dc34.js",
+    "static/media/CalibreRegular.otf": "/static/media/CalibreRegular.84b1f95cc4641415a24e.otf",
+    "static/media/Graham-Logo-transparent.png": "/static/media/Graham-Logo-transparent.810adfb74c3cdabb478e.png",
     "index.html": "/index.html",
-    "main.06526468.css.map": "/static/css/main.06526468.css.map",
-    "main.39e3c78a.js.map": "/static/js/main.39e3c78a.js.map"
+    "main.8cbc7a85.css.map": "/static/css/main.8cbc7a85.css.map",
+    "main.6922dc34.js.map": "/static/js/main.6922dc34.js.map"
   },
   "entrypoints": [
-    "static/css/main.06526468.css",
-    "static/js/main.39e3c78a.js"
+    "static/css/main.8cbc7a85.css",
+    "static/js/main.6922dc34.js"
   ]
 }
