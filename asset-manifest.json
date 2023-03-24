@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.52678509.css",
-    "main.js": "/static/js/main.a5aafb48.js",
+    "main.js": "/static/js/main.b11b78ac.js",
     "static/media/CalibreRegular.otf": "/static/media/CalibreRegular.84b1f95cc4641415a24e.otf",
     "static/media/Graham-Logo-transparent.png": "/static/media/Graham-Logo-transparent.810adfb74c3cdabb478e.png",
     "index.html": "/index.html",
     "main.52678509.css.map": "/static/css/main.52678509.css.map",
-    "main.a5aafb48.js.map": "/static/js/main.a5aafb48.js.map"
+    "main.b11b78ac.js.map": "/static/js/main.b11b78ac.js.map"
   },
   "entrypoints": [
     "static/css/main.52678509.css",
-    "static/js/main.a5aafb48.js"
+    "static/js/main.b11b78ac.js"
   ]
 }
